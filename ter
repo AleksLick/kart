@@ -1,0 +1,23 @@
+total 436
+-rw-r--r-- 1 student 197121   4158 Aug 10 09:19 README.md
+drwxr-xr-x 1 student 197121      0 Oct 18 12:35 app/
+-rwxr-xr-x 1 student 197121   1686 Aug 10 09:19 artisan*
+drwxr-xr-x 1 student 197121      0 Aug 10 09:19 bootstrap/
+-rw-r--r-- 1 student 197121   1917 Oct 18 12:35 composer.json
+-rw-r--r-- 1 student 197121 298331 Oct 18 12:35 composer.lock
+drwxr-xr-x 1 student 197121      0 Aug 10 09:19 config/
+drwxr-xr-x 1 student 197121      0 Aug 10 09:19 database/
+drwxr-xr-x 1 student 197121      0 Oct 18 12:35 node_modules/
+-rw-r--r-- 1 student 197121  70944 Oct 18 12:35 package-lock.json
+-rw-r--r-- 1 student 197121    416 Oct 18 12:35 package.json
+-rw-r--r-- 1 student 197121   1084 Aug 10 09:19 phpunit.xml
+-rw-r--r-- 1 student 197121     93 Oct 18 12:35 postcss.config.js
+drwxr-xr-x 1 student 197121      0 Oct 18 12:35 public/
+drwxr-xr-x 1 student 197121      0 Aug 10 09:19 resources/
+drwxr-xr-x 1 student 197121      0 Oct 18 12:35 routes/
+drwxr-xr-x 1 student 197121      0 Aug 10 09:19 storage/
+-rw-r--r-- 1 student 197121    541 Oct 18 12:35 tailwind.config.js
+-rw-r--r-- 1 student 197121      0 Oct 18 13:11 ter
+drwxr-xr-x 1 student 197121      0 Aug 10 09:19 tests/
+drwxr-xr-x 1 student 197121      0 Oct 18 12:35 vendor/
+-rw-r--r-- 1 student 197121    310 Oct 18 12:35 vite.config.js
